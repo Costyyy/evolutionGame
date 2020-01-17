@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\costi\Desktop\Programing\OOP projects\SFML\SFML\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  SFML.vcxproj -> C:\Users\costi\Desktop\Programing\OOP projects\SFML\x64\Debug\SFML.exe
